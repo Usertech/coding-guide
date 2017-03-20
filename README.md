@@ -8,15 +8,12 @@ This document describes best practices to follow when coding html, css, js, twig
 	- [Understanding design](#design)
 	- [Daily work on project](#daily-work-on-project)
 	- [Pre deploy checklist](#pre-deploy-checklist)
-- [Twig](./twig/TWIG.md)  
-	  
+- [Twig](./twig/TWIG.md)    
 - [Javascript](https://github.com/usertech/javascript-guide/)
 	- [Build tool - Webpack](https://github.com/usertech/javascript-guide/blob/master/OUR_BUILD_TOOL.md)
-- [Seed](./seed/SEED.md)
-
-- Stylesheet architecture (#css-stylesheet-architecture)
-  - [CSS](./css/CSS.md)
+- [Stylesheet architecture](./css/CSS.md)
   - [Bliss](./css/BLISS.md)
+- [Seed](./seed/SEED.md)
 
 
 ## Workflow
@@ -45,22 +42,3 @@ This document describes best practices to follow when coding html, css, js, twig
 - [ ] OpenGraph properties
 - [ ] No errors in console
 - [ ] No console.logs in cosole
-=======
-
-## CSS Stylesheet architecture
-
-We adhere to component/module-based approach [css-bliss](https://github.com/gilbox/css-bliss) which shares common ideas with 
-[BEM](http://bem.info), [SMACSS](https://smacss.com/), [OOCSS](http://oocss.org/), [SUITECSS](https://github.com/suitcss),
-but adds further restrictions to **fix design flaws in CSS**.
-
-To be studied in following order
-
-- [Walkthrough](http://gilbox.github.io/css-bliss/walkthrough/release/)
-- [Chapters in README](https://github.com/gilbox/css-bliss)
-- [How css-bliss tackles problems with complex CSS identified by Facebook](https://github.com/gilbox/css-bliss/blob/master/solving-complexity.md)
-- [Common mistakes](https://github.com/gilbox/css-bliss/blob/master/common-mistakes.md)
-
-All credits go to [Gil Birman](https://github.com/gilbox)
-
-This architecture is preprocessor independent. 
-We are using SASS to make things DRY.

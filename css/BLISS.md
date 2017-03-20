@@ -1,14 +1,15 @@
 # CSS Bliss
 
-A CSS style guide for small to enormous projects, without all that pomp and cruft. Many ideas borrowed from BEM, SMACSS, OOCSS, SUITECSS. This style guide uses SCSS. However, the only truly beneficial preprocessor-specific features we discuss are variables, mixins, and partials. Therefore, this guide will be useful for any preprocessor or no preprocessor at all as there is very little focus on features that aren't already part of vanilla CSS.
+A CSS style guide for small to enormous projects, without all that pomp and cruft.
 
 **We use BLISS on all projects.**
 
-## Bliss rules
-https://github.com/gilbox/css-bliss
+## To be studied in following order
 
-## Bliss walkthrough
-http://gilbox.github.io/css-bliss/walkthrough/release/
+- [Walkthrough](http://gilbox.github.io/css-bliss/walkthrough/release/)
+- [Chapters in README](https://github.com/gilbox/css-bliss)
+- [How css-bliss tackles problems with complex CSS identified by Facebook](https://github.com/gilbox/css-bliss/blob/master/solving-complexity.md)
+- [Common mistakes](https://github.com/gilbox/css-bliss/blob/master/common-mistakes.md)
 
 ## Naming
 
@@ -28,7 +29,7 @@ http://gilbox.github.io/css-bliss/walkthrough/release/
 - **.isCamelCase (formerly .is-camelCase)**
 
 ### Utility Classes (aka Simple Rules)
-- **.camelCase**
+- **.u-camelCase**
 
 ### Modul example
 
@@ -100,10 +101,6 @@ http://gilbox.github.io/css-bliss/walkthrough/release/
     </div>
 </div>
 ```
-
-## Mistakes
-- don't use `!important`
-- don't scross Modules
 
 
 

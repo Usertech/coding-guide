@@ -1,6 +1,15 @@
 # CSS
 
-We use CSS style guide - [Bliss](BLISS.md) on all projects.
+We adhere to component/module-based approach [css-bliss](./BLISS.md) which shares common ideas with 
+[BEM](http://bem.info), [SMACSS](https://smacss.com/), [OOCSS](http://oocss.org/), [SUITECSS](https://github.com/suitcss),
+but adds further restrictions to **fix design flaws in CSS**.
+
+[More about CSS-BLISS](./BLISS.md)
+
+All credits go to [Gil Birman](https://github.com/gilbox)
+
+This architecture is preprocessor independent. 
+We are using SASS to make things DRY.
 
 ## Interesting links
 - [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
