@@ -14,6 +14,7 @@ This document describes best practices to follow when coding html, css, js, twig
 - [Stylesheet architecture](./css/CSS.md)
   - [Bliss](./css/BLISS.md)
 - [Seed](./seed/SEED.md)
+- [Interesting resources](#interesting-resources)
 
 
 ## Workflow
@@ -42,3 +43,20 @@ This document describes best practices to follow when coding html, css, js, twig
 - [ ] OpenGraph properties
 - [ ] No errors in console
 - [ ] No console.logs in cosole
+
+### Interesting resources
+
+- **When you get stuck**
+	- [Stack Overflow](https://stackoverflow.com/)
+
+- **CSS**
+	- [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+	- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+	- [Bootstrap 4 grid](https://getbootstrap.com/docs/4.0/layout/grid/)
+
+- **Tools**
+	- [CodePen](https://codepen.io/)
+	- [Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
+	- [Box-shadow Generator](https://www.cssmatic.com/box-shadow)
+	- [Favicon Generator](https://realfavicongenerator.net/)
+	- [TinyPNG](https://tinypng.com/)
