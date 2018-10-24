@@ -32,7 +32,7 @@
                 +-- component/
                     +-- index.js
                     +-- index.html.twig
-                    +-- component.sass
+                    +-- index.sass
             +-- pages/
                 +-- page.html.twig
                 +-- anotherPage.html.twig
