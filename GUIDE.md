@@ -1,3 +1,4 @@
+
 # Coding checklist
 
 
@@ -85,3 +86,7 @@ It usually means there's some overriding of a bad code and is hard to work with.
 ### Line height in multiplier, not pixels
 
 With exceptions, like line-height based from height of an element.
+
+### CSS easings
+
+For CSS animations, don't use `linear`, but more natural `ease` (or others).
