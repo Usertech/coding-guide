@@ -3,11 +3,8 @@
 This document describes best practices to follow when coding html, css, js, twig...
 
 ## TOC
-
-- [Workflow](WORKFLOW.md)
-	- [Understanding design](#design)
-	- [Daily work on project](#daily-work-on-project)
-	- [Pre deploy checklist](#pre-deploy-checklist)
+- [Coding guide](./GUIDE.md)  
+- [Symfony structure](./symfony/SYMFONY.md)
 - [Twig](./twig/TWIG.md)    
 - [Javascript](https://github.com/usertech/javascript-guide/)
 	- [Build tool - Webpack](https://github.com/usertech/javascript-guide/blob/master/OUR_BUILD_TOOL.md)
@@ -43,20 +40,3 @@ This document describes best practices to follow when coding html, css, js, twig
 - [ ] OpenGraph properties
 - [ ] No errors in console
 - [ ] No console.logs in cosole
-
-### Interesting resources
-
-- **When you get stuck**
-	- [Stack Overflow](https://stackoverflow.com/)
-
-- **CSS**
-	- [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-	- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-	- [Bootstrap 4 grid](https://getbootstrap.com/docs/4.0/layout/grid/)
-
-- **Tools**
-	- [CodePen](https://codepen.io/)
-	- [Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
-	- [Box-shadow Generator](https://www.cssmatic.com/box-shadow)
-	- [Favicon Generator](https://realfavicongenerator.net/)
-	- [TinyPNG](https://tinypng.com/)
