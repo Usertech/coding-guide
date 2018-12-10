@@ -8,6 +8,7 @@ This document describes best practices to follow when coding html, css, js, twig
 	- [Understanding design](#design)
 	- [Daily work on project](#daily-work-on-project)
 	- [Pre deploy checklist](#pre-deploy-checklist)
+- [Symfony structure](./symfony/SYMFONY.md)
 - [Twig](./twig/TWIG.md)    
 - [Javascript](https://github.com/usertech/javascript-guide/)
 	- [Build tool - Webpack](https://github.com/usertech/javascript-guide/blob/master/OUR_BUILD_TOOL.md)
