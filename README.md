@@ -7,7 +7,7 @@ This document describes best practices to follow when coding html, css, js, twig
 - [Workflow](WORKFLOW.md)
 	- [Understanding design](#design)
 	- [Daily work on project](#daily-work-on-project)
-	- [Pre deploy checklist](#pre-deploy-checklist)
+	- [Pre deploy checklist](#pre-deploy-checklist)  
 - [Symfony structure](./symfony/SYMFONY.md)
 - [Twig](./twig/TWIG.md)    
 - [Javascript](https://github.com/usertech/javascript-guide/)
@@ -15,6 +15,7 @@ This document describes best practices to follow when coding html, css, js, twig
 - [Stylesheet architecture](./css/CSS.md)
   - [Bliss](./css/BLISS.md)
 - [Seed](./seed/SEED.md)
+- [Coding guide](./GUIDE.md)  
 
 
 ## Workflow
