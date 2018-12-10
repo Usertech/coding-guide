@@ -4,7 +4,7 @@
 
 ## TOC
 - [Coding guide](./GUIDE.md) 
-- [Pre deploy checklist] (./PRE-DEPLOY-CHECKLIST.md) 
+- [Pre deploy checklist](./PRE-DEPLOY-CHECKLIST.md) 
 - [Symfony structure](./symfony/SYMFONY.md)
 - [Twig](./twig/TWIG.md)    
 - [Javascript](https://github.com/usertech/javascript)
