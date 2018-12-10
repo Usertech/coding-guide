@@ -3,11 +3,7 @@
 This document describes best practices to follow when coding html, css, js, twig...
 
 ## TOC
-
-- [Workflow](WORKFLOW.md)
-	- [Understanding design](#design)
-	- [Daily work on project](#daily-work-on-project)
-	- [Pre deploy checklist](#pre-deploy-checklist)  
+- [Coding guide](./GUIDE.md)  
 - [Symfony structure](./symfony/SYMFONY.md)
 - [Twig](./twig/TWIG.md)    
 - [Javascript](https://github.com/usertech/javascript-guide/)
@@ -15,7 +11,7 @@ This document describes best practices to follow when coding html, css, js, twig
 - [Stylesheet architecture](./css/CSS.md)
   - [Bliss](./css/BLISS.md)
 - [Seed](./seed/SEED.md)
-- [Coding guide](./GUIDE.md)  
+- [Interesting resources](#interesting-resources)
 
 
 ## Workflow
@@ -29,3 +25,18 @@ This document describes best practices to follow when coding html, css, js, twig
 
 ### Daily work on project
 - Every day spend 15 minut with design analysis, everyone to know what is done and what remains to be done
+
+### Pre deploy checklist
+- [ ] Favicons
+- [ ] robots.txt
+- [ ] sitemap.xml
+- [ ] Google Analytics
+- [ ] more tracking codes?
+- [ ] custom error pages exists (and properly set up in .htaccess if necessary)
+- [ ] all links work (crawl it, baby!!! - e.g. W3C checklink)
+- [ ] CSS and JS in least requests and minified
+- [ ] All images are compressed
+- [ ] titles and metas (particularly meta description)
+- [ ] OpenGraph properties
+- [ ] No errors in console
+- [ ] No console.logs in cosole
