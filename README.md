@@ -11,4 +11,4 @@
 - [Stylesheet architecture](./css/CSS.md)
   - [Bliss](./css/BLISS.md)
 - [Seed](./seed/SEED.md)
-- [Interesting resources](#interesting-resources)
+- [Interesting resources](./INTERESTING-RESOURCES.md)
