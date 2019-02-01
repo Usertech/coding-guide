@@ -25,3 +25,16 @@
 * https://learncssgrid.com/
 
 
+## Use `<img>` just like a `background-image` with `object-fit` and `object-position`
+
+* https://www.w3schools.com/css/css3_object-fit.asp
+* https://css-tricks.com/almanac/properties/o/object-position/
+
+## Easy CSS animations with Animista library
+* http://animista.net
+* __styled-component__ https://bitbucket.org/usertech/hb-reavis/src/master/superadmin/src/components/Animista/
+
+## SVG `use` attribute
+* https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/
+* __svg optimizer__ https://jakearchibald.github.io/svgomg/
+* __svg filters__ https://yoksel.github.io/svg-filters/
