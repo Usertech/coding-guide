@@ -30,7 +30,7 @@ const FONT_SIZE = {
 };
 
 const LINE_HEIGHT = {
-	BASE: '1.4em'
+	BASE: '1.4'
 };
 
 const COLORS = {
@@ -68,11 +68,11 @@ const BOX_SHADOW = {
 };
 
 const BREAKPOINT = {
-	XS: '(min-width: 0em)',
-	SM: '(min-width: 36em)',
-	MD: '(min-width: 48em)',
-	LG: '(min-width: 62em)',
-	XL: '(min-width: 75em)',
+	XS: '(min-width: 0)',
+	SM: '(min-width: 576px)',
+	MD: '(min-width: 768px)',
+	LG: '(min-width: 992px)',
+	XL: '(min-width: 1200px)',
 };
 
 export default {
