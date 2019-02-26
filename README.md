@@ -4,6 +4,7 @@
 
 ## TOC
 - [Coding guide](./GUIDE.md) 
+- [Styled components guide](./style-components/GUIDE.md) 
 - [Pre deploy checklist](./PRE-DEPLOY-CHECKLIST.md) 
 - [Symfony structure](./symfony/SYMFONY.md)
 - [Twig](./twig/TWIG.md)    
