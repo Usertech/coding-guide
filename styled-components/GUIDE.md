@@ -26,7 +26,6 @@ const FONT_SIZE = {
 	H3: '1.4rem',
 	H4: '1.4rem',
 	H5: '1.4rem',
-	BUTTON: '1.4rem',
 };
 
 const LINE_HEIGHT = {
@@ -96,7 +95,6 @@ import is from 'styled-is';
 
 const fontSize = styledMap`
 	default: ${({ theme }) => theme.FONT_SIZE.BASE};
-	strong: inherit;
 	styleH1: ${({ theme }) => theme.FONT_SIZE.H1};
 	styleH2: ${({ theme }) => theme.FONT_SIZE.H2};
 	styleH3: ${({ theme }) => theme.FONT_SIZE.H3};
@@ -143,10 +141,8 @@ const H4 = withProps({ as: 'h4', styleH4: true })(Text);
 H4.displayName = 'H4';
 const H5 = withProps({ as: 'h5', styleH5: true })(Text);
 H5.displayName = 'H5';
-const Strong = withProps({ as: 'strong', strong: true })(Text);
-Strong.displayName = 'Strong';
 
-export { Paragraph, Strong, H1, H2, H3, H4, H5 };
+export { Paragraph, H1, H2, H3, H4, H5 };
 ```
 ### Units
 Use __relative units__ instead of absolute units.
